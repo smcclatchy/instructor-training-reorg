@@ -3,8 +3,7 @@ layout: lesson
 root: .
 ---
 
-Over the last hundred years,
-researchers have discovered an enormous amount about how people learn
+Over the last hundred years, researchers have discovered an enormous amount about how people learn
 and how best to teach them.
 Unfortunately,
 much of that knowledge has not yet been translated into common classroom practice,
